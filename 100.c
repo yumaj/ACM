@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<stdlib.h>
 int main() {
     int a =0, b= 0 , max = 0 , num = 1 ;
     while ( scanf("%d" , &a) ) {
